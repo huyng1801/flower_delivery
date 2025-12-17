@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "FlowerDelivery",
+    "slug": "flower-delivery-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.flowerdelivery.mobile"
+    },
+    "android": {
+      "package": "com.flowerdelivery.mobile"
+    },
+    "web": {}
+  }
+}
