@@ -47,7 +47,7 @@ const FlowerDetailScreen = ({ route, navigation }) => {
       return;
     }
 
-    dispatch(addToCart(flower));
+    dispatch(addToCart({ flower, quantity }));
     Alert.alert(
       'Thành công',
       'Đã thêm hoa vào giỏ hàng',

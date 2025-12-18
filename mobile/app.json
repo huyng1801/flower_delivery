@@ -3,7 +3,7 @@
     "name": "FlowerDelivery",
     "slug": "flower-delivery-mobile",
     "version": "1.0.0",
-    "sdkVersion": "50.0.0",
+    "sdkVersion": "54.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "splash": {
